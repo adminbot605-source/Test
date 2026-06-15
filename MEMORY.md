@@ -1,0 +1,3 @@
+- [Two-tier tariffs](two-tier-tariffs.md) — admin-plans (super-admin menu, sa_plan:) vs community tariffs (admin menu, plan_info:); role menus are exclusive, fix the right tier.
+- [Telegram bot quirks](telegram-bot-quirks.md) — connecting a group = startgroup deep link + my_chat_member (never a direct button); superadmins auto-provision & bypass plan limits; grep output can display mangled substrings, verify with read.
+- [Currency auto-conversion](currency-conversion.md) — community tariffs convert to buyer currency by language via key-less open.er-api.com; buyer pays in own currency, admin plans stay KGS.
